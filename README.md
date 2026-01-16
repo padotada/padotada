@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @padotada
+- 👋 Hi, I’m Roy
 - 🌱 I’m currently learning Python, React, and C++.
 
 
