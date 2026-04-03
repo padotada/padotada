@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roy
-- 🌱 I’m currently learning Python, React, and C++.
+- 🌱 I’m currently learning about compilers, operating systems, and building a full stack web app.
 
 
 <!---
